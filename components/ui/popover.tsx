@@ -46,3 +46,11 @@ function PopoverAnchor({
 }
 
 export { Popover, PopoverTrigger, PopoverContent, PopoverAnchor }
+
+// MONGODB_URL=mongodb+srv://hayotiygaplar24:6AvFlA7wSSfNipXy@comunity.1jpcxaa.mongodb.net/?retryWrites=true&w=majority&appName=Comunity
+// NEXT_PUBLIC_GITHUB_CLIENT_ID=Ov23lifhRwBZG09EgIV0
+// GITHUB_CLIENT_SECRET=271e15f7e852fa18be0e19d2d38f56af10461923
+// GOOGLE_CLIENT_ID=1039786985034-aqpo0g5oe04i43mrbm5u08evvrajjf1b.apps.googleusercontent.com
+// GOOGLE_CLIENT_SECRET=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
+// JWT_SECRET=32423748923$2379483048029849283094820
+// NEXT_SECRET=598459433459083405830453
